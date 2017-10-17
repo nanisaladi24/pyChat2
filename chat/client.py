@@ -12,7 +12,7 @@ from Crypto.Hash import SHA
 from communication import send, receive
 
 
-class ChatClient(object):
+class ChatClient(object): // chat code stuff
 
     def __init__(self, name, host='127.0.0.1', port=3490):
         self.name = name
