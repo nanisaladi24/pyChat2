@@ -11,6 +11,7 @@ from Crypto.Hash import SHA
 
 from communication import send, receive
 
+//update windows
 
 class ChatClient(object): // chat code stuff
 
